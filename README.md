@@ -2,8 +2,7 @@
 
 Durante a Segunda Guerra Mundial, Alan Turing foi encarregado de uma missão peculiar: decifrar o sistema de comunicação criptografado do inimigo. Em vez de seguir o caminho convencional, como qualquer pessoa sensata, o jovem Alan decidiu criar uma máquina para quebrar a complexa criptografia Enigma. Porque, afinal, quem tem tempo para soluções comuns quando se pode reinventar o jogo?
 
-Este repositório é o legado de um trabalho colaborativo, passado de geração em geração, para desenvolver um sistema capaz de resolver todos os problemas apresentados nos componentes curriculares da disciplina de Controle do DCA - UFRN. É a nossa própria "máquina de Turing", mas para quem tem um coração gelado o suficiente para encarar essa disciplina.
-
+Este repositório é o legado de um trabalho colaborativo, passado de geração em geração, para desenvolver um sistema capaz de resolver todos os problemas apresentados nos componentes curriculares da disciplina de Controle do DCA - UFRN. É a nossa própria "máquina de Turing".
 Os requisitos deste projeto :
 
 1) Deve cobrir as três unidades da disciplina, porque se é para passar, é melhor garantir em todas as frentes.
