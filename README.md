@@ -15,6 +15,6 @@ Versão - Gênesis
 
 Unidade I: [LGR](https://colab.research.google.com/drive/1KGFVaqCB7iw61kqlS8sIo-FbLg8yXBIn?usp=share_link)
 Unidade II: [Controle Clássico](https://colab.research.google.com/drive/17bkpGQpqlTL49Mma9kFt54cRMpgf_ID0?usp=share_link)
-Unidade III: [Controle Moderno]('controle_moderno/')
+Unidade III: [Controle Moderno](controle_moderno/)
 
 
